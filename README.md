@@ -1,3 +1,5 @@
+# Projeto em pausa
+
 # Automações web em segundo plano
 Como Rodar automações web em segundo plano
 Artigo escrito por [Wesley Pereira](https://github.com/wesleyp846)
